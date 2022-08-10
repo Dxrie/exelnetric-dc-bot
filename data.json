@@ -1,0 +1,190 @@
+{
+   "763950497781514300": {
+      "wallet": 0,
+      "bank": 0,
+      "rebirth": 184,
+      "gems": 1651,
+      "crate": 0,
+      "farm": 28,
+      "xp": 5516,
+      "maxxp": 51000,
+      "coins": 460000,
+      "level": 51,
+      "cheapreb": 3,
+      "gsc": true,
+      "lucky": true,
+      "title": {
+         "equipped": "Avatar"
+      },
+      "rare_egg": 0,
+      "common_egg": 0,
+      "legend_egg": 0
+   },
+   "811510359289495572": {
+      "wallet": 0,
+      "bank": 63143,
+      "rebirth": 15,
+      "gems": 1206,
+      "crate": 0,
+      "farm": 4,
+      "xp": 2029,
+      "maxxp": 3000,
+      "coins": 37500,
+      "level": 3,
+      "title": {
+         "equipped": "Newbie"
+      }
+   },
+   "801284356026007553": {
+      "wallet": 75732,
+      "bank": 178381,
+      "rebirth": 56,
+      "gems": 1084,
+      "crate": 1,
+      "farm": 12,
+      "xp": 4559,
+      "maxxp": 11000,
+      "coins": 140000,
+      "level": 11,
+      "gsc": true,
+      "title": {
+         "equipped": "Intermediate"
+      },
+      "lucky": true
+   },
+   "825584564645658625": {
+      "wallet": 0,
+      "bank": 0,
+      "rebirth": 71,
+      "gems": 3905,
+      "crate": 4,
+      "farm": 12,
+      "xp": 1408,
+      "maxxp": 16000,
+      "coins": 177500,
+      "level": 16,
+      "cheapreb": 3,
+      "title": {
+         "equipped": "Beginner"
+      },
+      "gsc": true,
+      "lucky": true
+   },
+   "754235931535474689": {
+      "wallet": 0,
+      "bank": 0,
+      "rebirth": 147,
+      "gems": 2231,
+      "crate": 0,
+      "farm": 24,
+      "xp": 6397,
+      "maxxp": 19000,
+      "coins": 367500,
+      "level": 19,
+      "cheapreb": 3,
+      "gsc": true,
+      "lucky": true,
+      "title": {
+         "equipped": "Immortal"
+      }
+   },
+   "725642830776762478": {
+      "wallet": 4966,
+      "bank": 0,
+      "rebirth": 0,
+      "gems": 0,
+      "crate": 0,
+      "farm": 1,
+      "xp": 703,
+      "maxxp": 1000,
+      "coins": 2500,
+      "level": 1,
+      "title": {
+         "equipped": "Beginner"
+      }
+   },
+   "890101257862254594": {
+      "wallet": 0,
+      "bank": 0,
+      "rebirth": 0,
+      "gems": 0,
+      "crate": 0,
+      "farm": 1,
+      "xp": 0,
+      "maxxp": 1000,
+      "coins": 2500,
+      "level": 1,
+      "title": {
+         "equipped": "Beginner"
+      }
+   },
+   "403939403526832138": {
+      "wallet": 0,
+      "bank": 0,
+      "rebirth": 0,
+      "gems": 0,
+      "crate": 0,
+      "farm": 1,
+      "xp": 0,
+      "maxxp": 1000,
+      "coins": 2500,
+      "level": 1,
+      "title": {
+         "equipped": "Beginner"
+      }
+   },
+   "943374977380519989": {
+      "wallet": 4360,
+      "bank": 0,
+      "rebirth": 3,
+      "gems": 193,
+      "crate": 0,
+      "farm": 3,
+      "xp": 1292,
+      "maxxp": 2000,
+      "coins": 10000,
+      "level": 2,
+      "rare_egg": 0,
+      "common_egg": 0,
+      "legend_egg": 0,
+      "title": {
+         "equipped": "Beginner"
+      }
+   },
+   "873562431740313661": {
+      "wallet": 79080,
+      "bank": 0,
+      "rebirth": 0,
+      "gems": 0,
+      "crate": 0,
+      "farm": 1,
+      "xp": 564,
+      "maxxp": 1000,
+      "coins": 2500,
+      "level": 1,
+      "rare_egg": 0,
+      "common_egg": 0,
+      "legend_egg": 0,
+      "title": {
+         "equipped": "Beginner"
+      }
+   },
+   "658618166972383263": {
+      "wallet": 100000,
+      "bank": 0,
+      "rebirth": 0,
+      "gems": 0,
+      "crate": 0,
+      "farm": 1,
+      "xp": 0,
+      "maxxp": 1000,
+      "coins": 2500,
+      "level": 1,
+      "rare_egg": 0,
+      "common_egg": 0,
+      "legend_egg": 0,
+      "title": {
+         "equipped": "Beginner"
+      }
+   }
+}
